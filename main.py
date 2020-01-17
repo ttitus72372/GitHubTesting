@@ -26,3 +26,6 @@ while counter < 5:
   list2.append(var)
   counter +=1
 print(sum(list2))
+
+
+#hi tim
