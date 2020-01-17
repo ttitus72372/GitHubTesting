@@ -21,7 +21,7 @@ print(numb3)
 '''
 list2 = []
 counter = 0
-while counter < 3:
+while counter < 5:
   var = int(input("Type a number to be added into the list:\n"))
   list2.append(var)
   counter +=1
